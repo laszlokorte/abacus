@@ -5,6 +5,7 @@
     const max = Math.pow(10, digits) - 1;
 </script>
 
+<title>Abacus</title>
 <div class="container">
     <h1><img src={favicon} alt="icon" />Abacus</h1>
 
